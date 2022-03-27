@@ -25,10 +25,10 @@ def compute_pi(args):
     start1 = time.time()
     random.seed(1)
     n = int(args.steps / args.workers)
+    time_parallel = time.time()
     p = multiprocessing.Pool(args.workers)
     end1 = time.time()
     t1 = end1 - start1
-    time_parallel = time.time()
     s = p.map(sample_pi, [n] * args.workers)
     time_parallel = time.time() - time_parallel
     start2 = time.time()
@@ -55,7 +55,7 @@ if __name__ == "__main__":
                             type=int,
                             help='Number of parallel processes')
         parser.add_argument('--steps', '-s',
-                            default='1000000000',
+                            default='10000000',
                             type=int,
                             help='Number of steps in the Monte Carlo simulation')
         args = parser.parse_args()
