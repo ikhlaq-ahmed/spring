@@ -1,0 +1,121 @@
+ Steps	Success	Pi est.	Error
+ 10000	   7846	3.13840	0.00319
+Serial Time
+0.006437063217163086
+Parallel Time
+0.004931926727294922
+Total running time
+0.011385440826416016
+Proportion
+0.43317837249235663
+measured 1.0
+ Steps	Success	Pi est.	Error
+ 10000	   7881	3.15240	-0.01081
+Serial Time
+0.004970073699951172
+Parallel Time
+0.0027725696563720703
+Total running time
+0.007765293121337891
+Proportion
+0.35704636168252996
+measured 1.2173198034049073
+ Steps	Success	Pi est.	Error
+ 10000	   7857	3.14280	-0.00121
+Serial Time
+0.007515907287597656
+Parallel Time
+0.0030167102813720703
+Total running time
+0.010550975799560547
+Proportion
+0.2859176571609346
+measured 1.2729743917961698
+ Steps	Success	Pi est.	Error
+ 10000	   7816	3.12640	0.01519
+Serial Time
+0.012767553329467773
+Parallel Time
+0.002787351608276367
+Total running time
+0.01557016372680664
+Proportion
+0.17901877316019968
+measured 1.1857352630778621
+ Steps	Success	Pi est.	Error
+ 10000	   7867	3.14680	-0.00521
+Serial Time
+0.02647256851196289
+Parallel Time
+0.002954244613647461
+Total running time
+0.029440641403198242
+Proportion
+0.1003457965873845
+measured 1.1038431433020293
+ Steps	Success	Pi est.	Error
+  9984	   7844	3.14263	-0.00104
+Serial Time
+0.0526275634765625
+Parallel Time
+0.005614757537841797
+Total running time
+0.058258771896362305
+Proportion
+0.09637617400912607
+measured 1.1029789923137794
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
+Hello from a worker
